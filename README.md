@@ -1,17 +1,15 @@
 # Data-Science
 
 ## Описание:
-В репозитории представлены проекты курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) (Яндекс.Практикум).
+В репозитории представлены проекты курса [Специалист Data Science](https://practicum.yandex.ru/data-scientist/) (Яндекс.Практикум).
 
 ## Основные инструменты и навыки, полученные при обучении:
-- Языки: Python, SQL
-- Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodels
-- Визуализация: Matplotlib, Plotly, Seaborn
-- Построение дашбордов: Tableau
-- Метрики юнит-экономики, когортный анализ
+- Языки: Python, PostgreSQL
+- Анализ данных: библиотеки Pandas, NumPy, SciPy, 
+- Визуализация: Matplotlib, Seaborn
 - А/В-тестирование
 - Работа с гипотезами
-- Машинное обучение: библиотеки Scikit-learn, XGBoost
+- Машинное обучение: библиотеки Scikit-learn, CatBoost, Keras, XGBoost, lightgbm
 
 ## Программа обучения:
 ![-](https://github.com/ovalentinka/Data_analyst/blob/be6663a961ed1bd26a89ce2832cc5e280c711f56/diplom.PNG)
