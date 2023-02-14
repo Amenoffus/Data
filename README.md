@@ -12,7 +12,7 @@
 - Машинное обучение: библиотеки Scikit-learn, CatBoost, Keras, XGBoost, lightgbm
 
 ## Программа обучения:
-![-](https://github.com/Amenoffus/Data-Science/blob/2e8ce661bf43a67a603144544b8f3b2771a6b0f2/Diplom-1.png, https://github.com/Amenoffus/Data-Science/blob/2e8ce661bf43a67a603144544b8f3b2771a6b0f2/Diplom-2.png)
+![-]([https://github.com/Amenoffus/Data-Science/blob/2e8ce661bf43a67a603144544b8f3b2771a6b0f2/Diplom-1.png, https://github.com/Amenoffus/Data-Science/blob/2e8ce661bf43a67a603144544b8f3b2771a6b0f2/Diplom-2.png])
 
 ## Проекты:
 
