@@ -9,7 +9,7 @@
 - Визуализация: Matplotlib, Seaborn
 - А/В-тестирование
 - Работа с гипотезами
-- Машинное обучение: библиотеки Scikit-learn, CatBoost, Keras, XGBoost, lightgbm
+- Машинное обучение: библиотеки Scikit-learn, CatBoost, TensorFlow, Keras, XGBoost, lightgbm
 
 ## Программа обучения:
 ![-](https://github.com/Amenoffus/Data-Science/blob/2e8ce661bf43a67a603144544b8f3b2771a6b0f2/Diplom-1.png)
